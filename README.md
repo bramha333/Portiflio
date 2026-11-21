@@ -4,7 +4,7 @@ A responsive, single-page portfolio for **Sejala Bramhananda**, a student and as
 
 ## Portfolio
 
-- [View the HTML source on GitHub](https://bramha333.github.io/portiflio/)
+- [View the HTML source on GitHub](https://bramha333.github.io/Portiflio/)
 
 ## About
 
